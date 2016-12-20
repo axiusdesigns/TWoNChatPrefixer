@@ -1,0 +1,13 @@
+Note that this shit repeats each second or so.
+
+20.12 09:45:02 [Server] WARN Task #4032523 for TWoNChatPrefixer v1.93 generated an exception
+20.12 09:45:02 [Server] INFO java.lang.NullPointerException
+20.12 09:45:02 [Server] INFO at me.AxiusDevelopment.TWoNChatPrefixer.Prefixer.run(Prefixer.java:36) ~[?:?]
+20.12 09:45:02 [Server] INFO at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:729) [spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400) [spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660) [spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559) [spigot52.jar:git-Spigot-1480adb-6247aa0]
+20.12 09:45:02 [Server] INFO at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
